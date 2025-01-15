@@ -1,0 +1,2 @@
+# AUTOMATED-ALZHEIMER-S-DETECTION-LEVERAGING-MACHINE-LEARNING-MODELS-FOR-EARLY-INTERVENTION
+Alzheimer's disease impacts cognition, requiring early detection. ML techniques like ResNet, VGG, and SVM use genetic, clinical, and imaging data for diagnosis. ResNet showed top accuracy (74%) and precision (73%), while VGG excelled in true positives. Future focus: interpretable models &amp; real-time monitoring.
